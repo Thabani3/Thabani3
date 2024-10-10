@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thabani3
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning software development
+- 🌱 I’m currently working as a junior software developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me thabaniirvin956@gmail.com
 
